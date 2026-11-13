@@ -12,7 +12,7 @@ title : /dev/mem
 tagline: Things I'm working on/have worked on
 author :
   name : Kevin Ross
-  email : me@kevinross.name
+  email : contact@kevinross.name
   github : kevinross
 
 # The production_url is only used when full-domain names are needed
@@ -23,7 +23,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://kevinross.name
+production_url : https://kevinross.name
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
